@@ -67,7 +67,7 @@ class Unit(RegexUnit, CryptoUnit):
     PRIORITY = 50
     """
     Priority works with 0 being the highest priority, and 100 being the 
-    lowest priority. 50 is the default priorty. This unit has a defualt
+    lowest priority. 50 is the default priorty. This unit has a default
     priority.
     """
 
