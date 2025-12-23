@@ -1,5 +1,5 @@
 # Dockerfile to spin up a working Katana installation
-FROM python:3.8
+FROM python:3.13.11
 
 # Install binary packages
 RUN apt-get update && apt-get upgrade -y
